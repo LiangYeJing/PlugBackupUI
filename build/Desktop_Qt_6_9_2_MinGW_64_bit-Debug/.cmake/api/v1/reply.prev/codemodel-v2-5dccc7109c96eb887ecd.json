@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e7c7c1968c44f5455fb7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PlugBackupUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PlugBackupUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PlugBackupUI-Debug-3137de309b6b53ca98d0.json",
+					"name" : "PlugBackupUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PlugBackupUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PlugBackupUI_autogen-Debug-d10b4399adc44adf31e2.json",
+					"name" : "PlugBackupUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PlugBackupUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PlugBackupUI_autogen_timestamp_deps-Debug-cf082517c04492ccc423.json",
+					"name" : "PlugBackupUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/projects/PlugBackupUI/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "D:/projects/PlugBackupUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
