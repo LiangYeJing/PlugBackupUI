@@ -141,12 +141,6 @@ cmake --build build -j
 
 ------
 
-## 📄 许可协议
-
-（请在确定后选择协议：**MIT** / **Apache-2.0** / **GPLv3** …）
- *示例*：本项目采用 **MIT License**（见 `LICENSE`）。
-
-------
 
 ## 🙌 致谢
 
